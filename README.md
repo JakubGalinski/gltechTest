@@ -17,3 +17,5 @@ git push -u origin <branch-name>
 When the test passes clean up your code.
 It's worth spending time formatting and simplifing things.
 It's more important that humans can read your code than computers.
+
+Jakub Galinski
