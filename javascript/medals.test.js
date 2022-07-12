@@ -5,7 +5,7 @@ function createMedalTable(medals) {
     const medalTable = {}
 
     // looping over disciplines podium results
-    for (discipline of medals) {
+    for (const discipline of medals) {
 
         // this loop assigns value based on the place on the podium to a specific country in medalTable object
         for (let i = 0; i < discipline.podium.length; i++) {
